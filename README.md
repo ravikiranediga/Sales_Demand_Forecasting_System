@@ -1,6 +1,7 @@
 # 📊 Sales Demand Forecasting System
 
 An end-to-end Machine Learning project that predicts future sales using historical data and presents insights through an interactive Streamlit dashboard.
+🚀 End-to-end ML system for forecasting sales with 90-day predictions using advanced time-series feature engineering and interactive dashboarding.
 
 ---
 
