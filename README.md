@@ -4,6 +4,22 @@ An end-to-end Machine Learning project that predicts future sales using historic
 🚀 End-to-end ML system for forecasting sales with 90-day predictions using advanced time-series feature engineering and interactive dashboarding.
 
 ---
+## 🌐 Live Demo
+
+🚀 Try the live application here:
+👉 https://sales-demand-forecasting.streamlit.app/
+
+---
+
+Experience the full sales forecasting system in action:
+
+* 📊 Explore historical sales trends
+* 🔍 Analyze seasonality patterns
+* 🤖 Train and compare ML models
+* 🔮 View 90-day future sales forecasts
+
+This interactive dashboard is designed for **business users and decision-makers** to easily understand and act on data insights.
+
 
 ## ❗ Problem Statement
 
