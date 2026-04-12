@@ -63,21 +63,20 @@ The focus is not just on prediction accuracy, but also on **business interpretab
 ## 📁 Project Structure
 
 ```bash
-sales-demand-forecasting-system/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── data/
+FUTURE_ML_01
+
+├── app.py                 # Main Streamlit dashboard (ALL IN ONE)
+├── requirements.txt       # Dependencies
+├── README.md             # This file
+├── data/                  # Data files
 │   ├── sales_data.csv
 │   └── processed_sales.csv
-│
-├── models/
+├── models/                # Trained models
 │   └── best_model.pkl
-│
-├── output/
-│   └── forecast_results.csv
+├── output/                # Results
+│   ├── forecast_results.csv
+│   └── model_evaluation.csv
+└── visualizations/        # Static charts (optional)
 ```
 
 ---
