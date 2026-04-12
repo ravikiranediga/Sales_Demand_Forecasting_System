@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data (optional - uncomment to exclude)
+# data/
+# output/
+# models/
+
+# OS
+.DS_Store
+Thumbs.db
