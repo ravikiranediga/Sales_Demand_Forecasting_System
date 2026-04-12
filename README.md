@@ -155,29 +155,19 @@ Below are key visual insights generated from the forecasting system:
 * Future sales predictions for better planning
 
 These visuals are designed to help **non-technical stakeholders** quickly understand business insights and make data-driven decisions.
+## Results
 
+| Model | R² Score | MAE ($) | MAPE (%) |
+|-------|----------|---------|----------|
+| Linear Regression | 0.7980 | 172.31 | 17.84 |
+| Ridge Regression | 0.8442 | 165.19 | 17.14 |
+| Random Forest | 0.8913 | 142.33 | 14.14 |
+| **Gradient Boosting** | **0.8958** | **137.86** | **13.64** |
 
----
-
-These visualizations help stakeholders easily understand:
-
-* Sales trends over time
-* Seasonal demand fluctuations
-* Category and store performance
-* Future demand predictions
-
-All charts are designed to be **simple, clear, and business-friendly**.
-
-
----
-
-## 📊 Results
-
-* Achieved strong predictive performance using ensemble models
-* Captured seasonality and demand trends effectively
-* Reduced forecasting error using advanced feature engineering
-
----
+### Key Insights
+- **Best Model:** Gradient Boosting (R² = 89.58%)
+- **Top Feature:** 7-day rolling average (66.76% importance)
+- **90-Day Forecast:** ~$417,543 total predicted sales
 
 ## 💡 Business Impact
 
