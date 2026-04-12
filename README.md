@@ -109,12 +109,41 @@ FUTURE_ML_01
 
 ---
 
-## 📸 Demo
+## 📸 Demo & Visualizations
 
-> ⚠️ Add screenshots here after running the app
+Below are key visual insights generated from the forecasting system:
 
-![Dashboard](images/dashboard.png)
-![Forecast](images/forecast.png)
+### 📊 Sales Distribution by Store
+
+![Sales by Store](visualizations/sales_by_store.png)
+
+### 🛒 Sales Distribution by Category
+
+![Sales by Category](visualizations/sales_by_category.png)
+
+### 📈 Monthly Sales Trend
+
+![Monthly Trend](visualizations/monthly_trend.png)
+
+### 🔄 Seasonality Analysis
+
+![Seasonality](visualizations/seasonality.png)
+
+### 🔮 Forecasted Sales (Next 90 Days)
+
+![Forecast](visualizations/forecast.png)
+
+---
+
+These visualizations help stakeholders easily understand:
+
+* Sales trends over time
+* Seasonal demand fluctuations
+* Category and store performance
+* Future demand predictions
+
+All charts are designed to be **simple, clear, and business-friendly**.
+
 
 ---
 
