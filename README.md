@@ -113,25 +113,49 @@ FUTURE_ML_01
 
 Below are key visual insights generated from the forecasting system:
 
-### 📊 Sales Distribution by Store
-
-![Sales by Store](visualizations/sales_by_store.png)
-
-### 🛒 Sales Distribution by Category
-
-![Sales by Category](visualizations/sales_by_category.png)
-
 ### 📈 Monthly Sales Trend
 
-![Monthly Trend](visualizations/monthly_trend.png)
+![Monthly Trend](visualizations/eda_monthly_trend.png)
 
 ### 🔄 Seasonality Analysis
 
-![Seasonality](visualizations/seasonality.png)
+![Seasonality](visualizations/eda_seasonality.png)
 
-### 🔮 Forecasted Sales (Next 90 Days)
+### 🏬 Sales by Store & Category
 
-![Forecast](visualizations/forecast.png)
+![Store Category](visualizations/eda_store_category.png)
+
+---
+
+## 🔮 Forecasting Insights
+
+### 🏬 Forecast by Store
+
+![Forecast Store](visualizations/forecast_by_store.png)
+
+### 🛒 Forecast by Category
+
+![Forecast Category](visualizations/forecast_by_category.png)
+
+### 📅 Daily Sales Forecast (Next 90 Days)
+
+![Daily Forecast](visualizations/forecast_daily.png)
+
+### 📆 Monthly Forecast Trend
+
+![Monthly Forecast](visualizations/forecast_monthly.png)
+
+---
+
+### 📊 What These Visualizations Show
+
+* Sales trends over time (growth/decline patterns)
+* Seasonal demand fluctuations across months
+* Performance differences between stores and categories
+* Future sales predictions for better planning
+
+These visuals are designed to help **non-technical stakeholders** quickly understand business insights and make data-driven decisions.
+
 
 ---
 
